@@ -1,0 +1,34 @@
+body h1{
+    color: blue;
+    text-align: center;
+    text-decoration: rebeccapurple;
+}
+body p{
+    
+}
+.cakes{
+    color: black;
+    text-align: left;
+    opacity: .4;
+}
+.footer{
+    color: darkblue;
+    text-align: center;
+}
+body{
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    
+}
+.banner img{
+    width: 100%;
+    height: 500px;
+}
+.paragraph{
+    color: #B61919;
+}
+.container{
+    width: 100%;
+}
